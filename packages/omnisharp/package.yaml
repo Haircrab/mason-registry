@@ -15,7 +15,7 @@ source:
   id: pkg:github/OmniSharp/omnisharp-roslyn@v1.39.12
   asset:
     - target: darwin_x64
-      file: omnisharp-osx-x64-net6.0.zip:libexec/
+      file: omnisharp-osx-arm64-net6.0.zip:libexec/
     - target: darwin_arm64
       file: omnisharp-osx-arm64-net6.0.zip:libexec/
     - target: linux_x64
